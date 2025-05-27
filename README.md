@@ -46,3 +46,7 @@ GitHub é uma plataforma de hospedagem de código baseada em Git que permite col
 - **Segurança**: Ferramentas para análise de vulnerabilidades e proteção de código.
 
 GitHub é uma extensão poderosa do Git, oferecendo ferramentas adicionais para facilitar o desenvolvimento colaborativo e a entrega de software de alta qualidade.
+
+### Responsáveis
+- Jaison Schmidt
+- Leandro Canabarro
